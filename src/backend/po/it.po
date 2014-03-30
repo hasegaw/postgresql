@@ -1185,7 +1185,7 @@ msgstr "Il cluster di database è stato inizializzato con RELSEG_SIZE %d, ma il 
 #: access/transam/xlog.c:3662
 #, c-format
 msgid "The database cluster was initialized with XLOG_BLCKSZ %d, but the server was compiled with XLOG_BLCKSZ %d."
-msgstr "Il cluster di database è stato inizializzato con XLOG_BLOCKSZ %d, ma il server è stato compilato con XLOG_BLOCKSZ %d."
+msgstr "Il cluster di database è stato inizializzato con XLOG_BLCKSZ %d, ma il server è stato compilato con XLOG_BLCKSZ %d."
 
 #: access/transam/xlog.c:3669
 #, c-format
